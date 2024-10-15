@@ -1,0 +1,24 @@
+_repo: Left-with-a-trust_74581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hellis, Nellie
+    gutenberg_agent_id: '57564'
+    url: http://www.gutenberg.org/2009/agents/57564
+description: ''
+gutenberg_issued: '2024-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74581'
+language: en
+pgterms:marc905: 20240923065836hellis
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bS. W. Partridge & Co., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Left with a trust
+url: http://www.gutenberg.org/ebooks/74581
