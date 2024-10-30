@@ -1,11 +1,16 @@
 _repo: Left-with-a-trust_74581
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hellis, Nellie
     gutenberg_agent_id: '57564'
     url: http://www.gutenberg.org/2009/agents/57564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74581#Left-with-a-trust
 gutenberg_issued: '2024-10-15'
 gutenberg_type: Text
 identifiers:
